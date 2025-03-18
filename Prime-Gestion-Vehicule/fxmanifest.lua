@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Brad'
-description 'Régulateur de vitesse par Brad'
+author 'Prime'
+description 'RÃ©gulateur de vitesse par Brad'
 version '1.0.0'
 
 dependencies {
