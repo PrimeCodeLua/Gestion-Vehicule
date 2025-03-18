@@ -1,4 +1,4 @@
-print('PRIME SCRIPT | Script crée par Brad')
+print('SCRIPT PRIME | Script crée par Brad')
 
 local cruiseControlActive = false
 local maxSpeed = 0.0
