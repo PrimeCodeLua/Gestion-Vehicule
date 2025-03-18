@@ -1,3 +1,5 @@
+print('PRIME SCRIPT | Script crée par Brad')
+
 local cruiseControlActive = false
 local maxSpeed = 0.0
 local currentVehicle = nil
